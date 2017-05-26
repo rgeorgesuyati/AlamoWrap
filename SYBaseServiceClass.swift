@@ -1,15 +1,12 @@
 //
 //  SYBaseServiceClass.swift
-//  AnshinKyuyu
+//  Suyati Technologies
 //
-//  Created by Sulabh Surendran on 11/8/16.
-//  Copyright © 2016 Sulabh Surendran. All rights reserved.
+//  Created by Rijo George on 11/8/16.
+//  Copyright © 2016 Rijo George. All rights reserved.
 //
 
 import Alamofire
-//import Simple_KeychainSwift
-
-
 
 typealias completionBlock = (_ response: DataResponse<Any>?) -> Void
 
